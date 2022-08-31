@@ -1,4 +1,8 @@
 HEre is more text yippie!
 Lets type something.
 
+<<<<<<< HEAD
 Notepad change!
+=======
+Website change!
+>>>>>>> 8192318089596835747ba08f122aa585c78b0e61
