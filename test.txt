@@ -3,4 +3,8 @@ fortnite
 baba G!
 
 Nihihihi time to ruin your day
+<<<<<<< Updated upstream
 man
+=======
+what
+>>>>>>> Stashed changes
